@@ -1,0 +1,1 @@
+To make android emulator work with development server run  ```adb reverse tcp:8081 tcp:8081```
